@@ -1,0 +1,52 @@
+[
+    {
+        "Date": "15/12/24",
+        "Distance": "4,76",
+        "Duration": "00:20:00",
+        "Calories": "376",
+        "Average Pace": "04:12",
+        "Average Speed": "14,3",
+        "Max Speed": "16,5",
+        "Start Time": "15:25"
+    },
+    {
+        "Date": "11/12/24",
+        "Distance": "4,86",
+        "Duration": "00:20:00",
+        "Calories": "405",
+        "Average Pace": "04:07",
+        "Average Speed": "14,6",
+        "Max Speed": "17,1",
+        "Start Time": "16:17"
+    },
+    {
+        "Date": "04/12/24",
+        "Distance": "4,00",
+        "Duration": "00:16:18",
+        "Calories": "324",
+        "Average Pace": "04:04",
+        "Average Speed": "14,7",
+        "Max Speed": "16,5",
+        "Start Time": "15:55"
+    },
+    {
+        "Date": "29/11/24",
+        "Distance": "4,01",
+        "Duration": "00:16:14",
+        "Calories": "346",
+        "Average Pace": "04:02",
+        "Average Speed": "14,8",
+        "Max Speed": "17,1",
+        "Start Time": "15:41"
+    },
+    {
+        "Date": "23/11/24",
+        "Distance": "1,00",
+        "Duration": "00:03:49",
+        "Calories": "76",
+        "Average Pace": "03:49",
+        "Average Speed": "15,7",
+        "Max Speed": "17,7",
+        "Start Time": "16:26"
+    }
+]

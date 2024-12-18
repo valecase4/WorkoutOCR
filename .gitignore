@@ -1,0 +1,7 @@
+*.cfg
+
+Lib/
+Include/
+Scripts/
+
+Tesseract-OCR/
