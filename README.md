@@ -27,6 +27,7 @@ Workout-OCR-Tracker/
 │
 ├── main.py                 # Python script for extracting and processing data
 ├── requirements.txt        # Dependencies for the project
+├── data.json               # output json
 └── README.md         
 ```
 
